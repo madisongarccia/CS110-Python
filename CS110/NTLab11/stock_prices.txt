@@ -1,0 +1,42 @@
+========================================================Stock symbol: IBM
+Last Close: 139.1000
+Open: 139.0000
+High: 139.0000
+Low: 136.1700
+Current: 136.1900
+============================
+Stock symbol: AAPL
+Last Close: 162.8800
+Open: 162.2500
+High: 162.2500
+Low: 156.7200
+Current: 156.8000
+============================
+Stock symbol: IBM
+Last Close: 139.1000
+Open: 139.0000
+High: 139.0000
+Low: 136.1700
+Current: 136.1900
+============================
+Stock symbol: IBM
+Last Close: 139.1000
+Open: 139.0000
+High: 139.0000
+Low: 136.1700
+Current: 136.1900
+============================
+Stock symbol: IBM
+Last Close: 139.1000
+Open: 139.0000
+High: 139.0000
+Low: 136.1700
+Current: 136.1900
+============================
+Stock symbol: AAPL
+Last Close: 162.8800
+Open: 162.2500
+High: 162.2500
+Low: 156.7200
+Current: 156.8000
+============================

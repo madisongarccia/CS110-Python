@@ -1,0 +1,8 @@
+MADISON WOZNIAK
+
+SOURCES
+NTLAB12 text files and instructions page
+
+The purpose of this program is to search a text files with movies, directors, year released, and ratings and return that information to the user when they search a specific movie title.
+
+First the class Movie was defined in movie.py that has a constructor function with parameters self, title, release_year, director, rating, and average_rating. The last two were default to have no values. Next a string constructor was defined to print the movie instance's title, release year, and director when called. The next function added ratings to a list, and the following function calculated the average ratings of each film. The final three functions were getters that accessed ratings, average rating, and title from the private constructors. Next, movie_mgr.py called the Movie class and in the main function, I opened a file called movie_data.txt that was used in the read_movie_data function that read each line of the text file, split the lines on commas, and assigned each index of the array created to either title, release year, or director. Then, I created objects for the movies and assigned those objects to a list which was what the function returned. After this, the file was closed and the user is asked to enter the title of a movie. If the file contains that movie's title, the Movie class is called and returns the information in __str__ to the user. After this, the user if asked if they would like to enter another movie title, if so, the program loops to the beginning of the while loop and asks for another title, if not the program ends and says Goodbye. 
