@@ -1,0 +1,59 @@
+Class review session
+
+Midterm structure
+	25 multiple choice 2 points
+	100 points - 25% of final grade
+	definitions, editing lines of code
+	only use canvas, sublime, terminal
+	one sheet of notes double sided
+
+for loops and while loops
+
+for loops: repeats for a specified number of times 
+for i in range
+syntax = for <variable> in thing:
+for <variable> in range(<start>,<end>,<inc>)
+range(5) gives 01234
+need to have a specific amount of times you want it to run
+
+while loops: condition-controlled
+repeat while a specified contion is true, ends when it is no longer true
+use when you don't know how many times it will run
+eventually something will happen to make it stop
+while <boolean>
+	<code inside must eventually make the boolean false>
+use for input validation
+
+gemstones lab
+
+initialize variables that tell how many of each were collected
+boolean called collect - means if its true, the user still wants to get more gems
+
+
+#main() functions
+should be the last function defined
+don't compute anything
+
+
+turtles
+test question will be very similar to practice problem
+first must import turtle        import turtle
+create turtle graphics screen   screen = turtle.Screen()
+make one or more turtles        
+color, pen, movement
+start at (0,0)
+always start facing east (to the right)
+ted.forward()
+ted.left()
+ted.right()
+
+going over practice problem for turtles
+
+pentagon spiral
+initialize sideLength to 2
+and we know we want 100 sides so numSides=100
+use for loop because we want it to loop exactly 100 times
+go forward 2, turn right 72 degrees (360/5), then increase sidelength by 2 to increase the next side so it makes a spiral
+
+Hard problem
+
